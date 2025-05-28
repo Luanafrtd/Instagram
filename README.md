@@ -19,4 +19,7 @@ This project was created as a study exercise during the early stages of my web d
 
 ---
 
+## 🔗 Live Demo  
+[Click here to view the project](https://luanafrtd.github.io/Instagram/)
+
 Made with 💙 by [@luanafrtd](https://github.com/luanafrtd)
